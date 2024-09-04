@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">お天気情報</string>
+    <string name="tv_wifo_title">お天気詳細</string>
+    <string name="tv_description">現在は%1$sです。\n緯度は%2$.4f度で、経度は%3$.4f度です。</string>
+    <string name="tv_telop">%1$sの天気</string>
+</resources>

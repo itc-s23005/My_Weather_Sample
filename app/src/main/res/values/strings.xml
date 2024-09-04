@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Weather information</string>
+    <string name="tv_wifo_title">Details</string>
+    <string name="tv_description">it is currentlu % 1$s.\nThe latitude is %2$.4f°,and the longitude is %35.4f°</string>
+    <string name="tv_telop">Weather in  %1$s</string>
+</resources>
